@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "master": "reacttest-f0555",
+    "stage": "reacttest-f0555",
+    "prod": "reacttest-f0555"
+  }
+}
